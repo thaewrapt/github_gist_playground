@@ -1,3 +1,6 @@
 [submodule "gist_one/93c7fbb759b717d559d5ef1669d91d7d"]
 	path = gist_one/93c7fbb759b717d559d5ef1669d91d7d
 	url = https://gist.github.com/93c7fbb759b717d559d5ef1669d91d7d.git
+[submodule "gist_two/b970d2fb4ed9a0ced4b29a07a3f1b2d0"]
+	path = gist_two/b970d2fb4ed9a0ced4b29a07a3f1b2d0
+	url = https://gist.github.com/b970d2fb4ed9a0ced4b29a07a3f1b2d0.git
